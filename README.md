@@ -10,6 +10,10 @@ In conclusion...
 
 ![alt text](final_neighborhoods.png)
 ### *Higher score means better neighborhood*
+Beechview had an overall score of 7.2, with submetric overall scores:
+Crime Score: 1.0
+Park Score: 0.71
+Education Score: 0.46
 
 ## Datasets Used:
 1. [Police Incident Blotter (30 Day)](https://data.wprdc.org/dataset/police-incident-blotter)
