@@ -9,7 +9,7 @@ In conclusion...
 ## Beechview is the best Pittsburgh neighborhood for kids!
 
 ![alt text](final_neighborhoods.png)
-### *Higher scores means better neighborhood*
+### *Higher score means better neighborhood*
 
 ## Datasets Used:
 1. [Police Incident Blotter (30 Day)](https://data.wprdc.org/dataset/police-incident-blotter)
