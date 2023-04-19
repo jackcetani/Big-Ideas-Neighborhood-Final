@@ -11,9 +11,15 @@ In conclusion...
 ![alt text](final_neighborhood_map.png)
 ### *Higher score means better neighborhood*
 Regent Square had an overall score of 0.66, with submetric overall scores:
+* Crime Score: 1.00
+* Park Score: 0
+* Education Score: 0.98
+
+If you care a lot about parks however...
+A close second was Beechview with an overall score of 0.63, and submetric overall scores:
 * Crime Score: 0.72
-* Park Score: 1.0
-* Education Score: 0.46
+* Park Score: 1
+* Education Score: 0.18
 
 ## Datasets Used:
 1. [Police Incident Blotter (30 Day)](https://data.wprdc.org/dataset/police-incident-blotter)
