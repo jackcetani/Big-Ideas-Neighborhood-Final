@@ -6,11 +6,11 @@ By Daphne Giffin, Jack Cetani, and Morgan Engel
 Our goal is to use three Pittsburgh data sets to determine the best neighborhood in Pittsburgh for kids. We will be using the parks, education, and police incident data sets (linked below). Using these metrics we can determine an overall score for each neighborhood, as well as the best one for kids.
 
 In conclusion...
-## Beechview is the best Pittsburgh neighborhood for kids!
+## Regent Square is the best Pittsburgh neighborhood for kids!
 
-![alt text](final_neighborhoods.png)
+![alt text](final_neighborhood_map.png)
 ### *Higher score means better neighborhood*
-Beechview had an overall score of 0.72, with submetric overall scores:
+Regent Square had an overall score of 0.66, with submetric overall scores:
 * Crime Score: 0.72
 * Park Score: 1.0
 * Education Score: 0.46
