@@ -15,7 +15,7 @@ Regent Square had an overall score of 0.66, with submetric overall scores:
 * Park Score: 0
 * Education Score: 0.98
 
-If you care a lot about parks however...
+If you care a lot about parks however...    
 A close second was Beechview with an overall score of 0.63, and submetric overall scores:
 * Crime Score: 0.72
 * Park Score: 1
