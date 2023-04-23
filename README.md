@@ -4,7 +4,7 @@ Group 40
 
 By Daphne Giffin, Jack Cetani, and Morgan Engel
 
-Emails: Djg113@pitt.edu , jec316@pitt.edu
+Emails: djg113@pitt.edu, jec316@pitt.edu, mle50@pitt.edu
 
 ## Which neighborhood in Pittsburgh is the best for kids?
 
