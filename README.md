@@ -1,5 +1,6 @@
 # CMPINF 0010 Final Project
 By Daphne Giffin, Jack Cetani, and Morgan Engel
+
 Emails: Djg113@pitt.edu ,
 
 ## Which neighborhood in Pittsburgh is the best for kids?
