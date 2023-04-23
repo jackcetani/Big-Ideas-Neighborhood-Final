@@ -1,4 +1,7 @@
 # CMPINF 0010 Final Project
+
+Group 40
+
 By Daphne Giffin, Jack Cetani, and Morgan Engel
 
 Emails: Djg113@pitt.edu ,
